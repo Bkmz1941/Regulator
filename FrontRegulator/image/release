@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.3"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.logging java.security.sasl java.naming java.security.jgss javafx.base jdk.unsupported javafx.graphics javafx.controls ru.regulator.merged.module org.apache.httpcomponents.client5.httpclient5 org.apache.httpcomponents.core5.httpcore5 org.json org.slf4j ru.bkmz"
